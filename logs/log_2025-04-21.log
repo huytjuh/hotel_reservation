@@ -1,1 +1,9 @@
 2025-04-21 16:48:59,651 - INFO - hello
+2025-04-21 17:23:16,583 - INFO - Starting main program
+2025-04-21 17:23:16,583 - ERROR - Error occured
+2025-04-21 17:23:16,583 - ERROR - Error in C:\Users\huytj\Documents\Repositories\hotel_reservation\testing.py, line 9: Custom error zero
+2025-04-21 17:23:26,134 - INFO - Starting main program
+2025-04-21 17:23:26,134 - ERROR - Error occured
+2025-04-21 17:23:26,134 - ERROR - Error in C:\Users\huytj\Documents\Repositories\hotel_reservation\testing.py, line 9: Custom error zero
+2025-04-21 17:25:08,834 - INFO - Starting main program
+2025-04-21 17:25:08,834 - INFO - dividing two numbers
