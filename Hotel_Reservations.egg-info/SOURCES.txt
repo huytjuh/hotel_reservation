@@ -3,7 +3,13 @@ setup.py
 Hotel_Reservations.egg-info/PKG-INFO
 Hotel_Reservations.egg-info/SOURCES.txt
 Hotel_Reservations.egg-info/dependency_links.txt
+Hotel_Reservations.egg-info/requires.txt
 Hotel_Reservations.egg-info/top_level.txt
 config/__init__.py
+config/paths_config.py
 src/__init__.py
+src/custom_exception.py
+src/data_ingestion.py
+src/logger.py
 utils/__init__.py
+utils/common_functions.py
